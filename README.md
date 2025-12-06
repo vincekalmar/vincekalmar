@@ -40,7 +40,6 @@ AI-driven flood/police/traffic simulation with agentic AI workflows and scenario
 
 ## 🎓 Currently Working On
 - Scaling my RL backtesting engine and benchmarking it with real quant engines
-- Preparing for UMass DataFest 2026!
 
 ---
 
